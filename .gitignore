@@ -1,0 +1,11 @@
+*debug.log
+*.DS_Store
+*.cmd
+*.history
+*.vscode
+node_modules
+dist
+build
+app/css/main.css.map
+/app/css/main.css
+/app/bin/bundle.js

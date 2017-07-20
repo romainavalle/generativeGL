@@ -1,0 +1,14 @@
+root = true
+
+[*]
+indent_style = tab
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+draw_white_space = all
+
+[*.{coffee}]
+indent_size = 2
+
+[*.{jade,html,js,html,scss,styl,css,vs,fs}]
+indent_size = 2
